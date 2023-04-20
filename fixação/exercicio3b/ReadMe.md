@@ -1,0 +1,1 @@
+Escreva o código CSS necessário para reproduzir o site da imagem (em anexo na pasta fixação) utilizando o grid. A mesma pág. deve ser reescrita utilizando o flexbox na exercicio3a.
